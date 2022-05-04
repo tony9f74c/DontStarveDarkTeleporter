@@ -1,7 +1,7 @@
 name = "Dark Teleporter"
 description = "A teleporter for your adventures."
-author = "https://steamcommunity.com/profiles/76561198002269576"
-version = "1.7"
+author = "Tony" -- https://steamcommunity.com/profiles/76561198002269576
+version = "1.7b"
 forumthread = ""
 api_version = 10
 all_clients_require_mod = true
